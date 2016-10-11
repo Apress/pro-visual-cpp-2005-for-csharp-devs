@@ -1,0 +1,5 @@
+bin\Debug\Shuffle.exe
+bin\Debug\Shuffle.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Shuffle.exe
+obj\Debug\Shuffle.pdb
